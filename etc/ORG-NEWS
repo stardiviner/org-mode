@@ -819,6 +819,8 @@ See the docstring of ~org-latex-classes~ and
 
 *** `org-insert-heading' can be forced to insert top-level headline
 
+*** let ob-lisp supporting use SLY to evaluate
+
 ** Removed functions
 
 *** Removed function ~org-translate-time~
